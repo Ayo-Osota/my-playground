@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/srcery.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <script>hljs.highlightAll();</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Shapes</title>
+</head>
+
+<body>
+    <main>
+        <h1>Drawing Awesome Shapes with Elliptical Border Radius in CSS</h1>
+        <p>Most are familiar with the basic usage of border-radius to create circular or rounded shapes, many are
+            unaware of its potential for creating more complex and interesting shapes using elliptical border-radius.
+        </p>
+
+        <article>
+            <h4>Understanding Border-Radius</h4>
+            <p>
+                By setting a uniform value, you can achieve simple rounded corners or circles.
+            </p>
+
+            <div>
+                <code>
+            /* Simple rounded corners */
+            .circle {
+                width: 100px;
+                height: 100px;
+                background-color: #3498db;
+                border-radius: 50%; /* Creates a circle */
+              }
+            </code>
+
+                <div class="circle"></div>
+            </div>
+        </article>
+
+        <article>
+            <h4>Elliptical Border-Radius</h4>
+            <p>
+                To create an elliptical border-radius, you can use two values separated by a slash (/):
+            </p>
+
+            <div>
+                <code>
+            /* Simple rounded corners */
+            .elliptical {
+                width: 200px;
+                height: 100px;
+                background-color: #e74c3c;
+                border-radius: 50% / 25%;
+              }
+            </code>
+
+                <div class="elliptical"></div>
+            </div>
+        </article>
+
+        <h3>By adjusting the values of the elliptical border-radius, you can create a variety of unique shapes. Here are
+            a few examples:</h3>
+
+        <div>
+            <div class="code-container">
+                <code>
+                .pill {<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;width: 300px;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;height: 100px;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;background-color: #2ecc71;<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;border-radius: 50px / 50%;<br>
+                }
+            </code>
+            </div>
+            <div class="pill"></div>
+        </div>
+
+
+    </main>
+</body>
+
+</html>
