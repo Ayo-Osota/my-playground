@@ -53,6 +53,9 @@ By setting a uniform value, you can achieve simple rounded corners or circles.
     border-radius: 50% / 25%;"></div>
 </p>
 
+<p>Hello1</p>
+<p style="color:red;">Hello2</p>
+
 
 ## Examples
 ### By adjusting the values of the elliptical `border-radius`, you can create a variety of unique shapes. Here are a few examples:
