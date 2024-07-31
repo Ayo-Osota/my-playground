@@ -37,7 +37,7 @@ By setting a uniform value, you can achieve simple rounded corners or circles.
 
  To create an elliptical `border-radius`, you can use two values separated by a slash (`/`):
 
-<div class="even-columns">
+<p class="even-columns">
 
 ```css
 .elliptical {
@@ -50,11 +50,13 @@ By setting a uniform value, you can achieve simple rounded corners or circles.
 <p style="width: 200px;
     height: 100px;
     background-color: #e74c3c;
-    border-radius: 50% / 25%;"></div>
+    border-radius: 50% / 25%;">
+    </p>
 </p>
 
 <p>Hello1</p>
 <p style="color:red;">Hello2</p>
+
 
 
 ## Examples
