@@ -47,11 +47,11 @@ By setting a uniform value, you can achieve simple rounded corners or circles.
     border-radius: 50% / 25%;
 }
 ```
-<div style="width: 200px;
+<p style="width: 200px;
     height: 100px;
     background-color: #e74c3c;
     border-radius: 50% / 25%;"></div>
-</div>
+</p>
 
 
 ## Examples
