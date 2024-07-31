@@ -13,6 +13,17 @@ Most are familiar with the basic usage of `border-radius` to create circular or 
     - [Speech Bubble](#speech-bubble)
 4. [Connect with Me](#connect-with-me)
 
+## Table of Contents
+1. [Understanding Border-Radius](#understanding-border-radius)
+2. [Elliptical Border-Radius](#elliptical-border-radius)
+3. [Examples](#examples)
+    - [Pill Shape](#pill-shape)
+    - [Leaf Shape](#leaf)
+    - [Egg Shape](#egg)
+    - [Moon Shape](#moon)
+    - [Speech Bubble](#speech-bubble)
+4. [Connect with Me](#connect-with-me)
+
 ## Understanding Border-Radius
 
 By setting a uniform value, you can achieve simple rounded corners or circles.
