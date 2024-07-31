@@ -55,7 +55,10 @@ By setting a uniform value, you can achieve simple rounded corners or circles.
 </p>
 
 <p>Hello1</p>
-<p style="color:red;">Hello2</p>
+<p style="width: 200px;
+    height: 100px;
+    background-color: #e74c3c;
+    border-radius: 50% / 25%;"">Hello2</p>
 
 
 
