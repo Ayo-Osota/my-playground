@@ -1,17 +1,6 @@
 # Drawing Awesome Shapes with Elliptical Border Radius in CSS
 
-Most are familiar with the basic usage of `border-radius` to create circular or rounded shapes, many are unaware of its potential for creating more complex and interesting shapes using elliptical `border-radius`.
-
-## Table of Contents
-1. [Understanding Border-Radius](#understanding-border-radius)
-2. [Elliptical Border-Radius](#elliptical-border-radius)
-3. [Examples](#examples)
-    - [Pill Shape](#pill-shape)
-    - [Leaf Shape](#leaf)
-    - [Egg Shape](#egg)
-    - [Moon Shape](#moon)
-    - [Speech Bubble](#speech-bubble)
-4. [Connect with Me](#connect-with-me)
+Most are familiar with the basic usage of `border-radius` to create circular or rounded shapes but many are unaware of its potential for creating more complex and interesting shapes using elliptical `border-radius`.
 
 ## Table of Contents
 1. [Understanding Border-Radius](#understanding-border-radius)
@@ -175,7 +164,7 @@ By setting a uniform value, you can achieve simple rounded corners or circles.
 
 ### Whether you’re designing buttons, icons, or unique decorative elements, elliptical border-radius is a valuable tool in your CSS toolkit.
 
-[View on CodePen](https://codepen.io/johndoe/pen/abc123)
+[View on CodePen](https://codepen.io/ayo_osota/pen/xxoqVWe)
 
 ---
 > > ### ***"If you believe it, you can achieve it***
