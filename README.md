@@ -143,7 +143,7 @@ transactions.forEach(transaction => {
 console.log([...uniquePurchasers]); // Outputs: ['user1', 'user2', 'user3', 'user4']
 ```
 
-The Map object is a collection of key-value pairs where both keys and values can be of any data type. 
+The Set object is a collection of unique values. It is particularly useful for storing data where duplicate values are not allowed.
 
 ### Key Features of Set:
 1. Each value in a Set must be unique.
