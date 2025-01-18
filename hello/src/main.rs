@@ -1,5 +1,6 @@
 /// This is a documentation comment, it will be used to generate documentation for the code.
 
+// Hashmap is like js object
 // Option is like ts union type Some(<T>) | None
 
 // String is owned and used in struct, &str is borrowed and used in function
